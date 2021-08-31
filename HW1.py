@@ -1,1 +1,3 @@
-import SciPy.optimize
+
+from  scipy.optimize import numpy
+
